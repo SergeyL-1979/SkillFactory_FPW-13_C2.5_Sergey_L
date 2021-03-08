@@ -23,7 +23,7 @@ b.printBoard()
 b.update(1, 'X')
 b.printBoard()
 
->>> 0 0 0
+    0 0 0
     0 0 0
     0 0 0
 
